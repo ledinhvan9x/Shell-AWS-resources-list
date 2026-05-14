@@ -1,1 +1,0 @@
-# Shell-AWS-resources-list
